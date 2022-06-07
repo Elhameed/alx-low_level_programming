@@ -6,14 +6,14 @@
  */
 int main(void)
 {
-	char holberton[] = "_putchar";
-	int i = 0;
+char holberton[] = "_putchar";
+int i = 0;
 
 	while (holberton[i] != '\0')
-		{
-			_putchar(holberton[i]);
-			i++;
-		}
-		_putchar('\n');
-		return (0);
+	{
+		_putchar(holberton[i]);
+		i++;
+	}
+	_putchar('\n');
+	return (0);
 }
