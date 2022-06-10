@@ -1,27 +1,30 @@
 #include "main.h"
 
 /**
- * print_diagonal - diagonal lines made of backslashes
- * @n: number of \ to be printed
- * Return: void
+ * print_diagonal - prints diagonal line on the terminal
+ * @n: numbers of lines and columns
+ * Return: none
  */
 
 void print_diagonal(int n)
 {
-	int i = 0, ii;
+	int l, c;
 
-	while (i < n && n > 0)
+	for (l = 0; l < n; l++)
 	{
-		ii = 0;
-		while (ii < i)
+		for (c = 0; c <= l; c++)
 		{
-			_putchar(' ');
-			i++;
+			if (c != l)
+			{
+				_putchar(' ');
+			}
+			else
+			{
+				_putchar('\\');
+			}
 		}
-		_putchar('\\');
 		_putchar('\n');
-		i++;
 	}
-	if (i == 0)
+	if (n <= 0)
 	_putchar('\n');
 }
