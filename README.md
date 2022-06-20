@@ -1,6 +1,6 @@
 # Low-level programming & Algorithm
 
-In this repo, you will find different programs written on low levl programming for the Alx software engineering program. I am looking forward to expanding my knowledge of C programming by constantly going through the concepts and projects provided by the school. 
+In this repo, you will find different programs written on low level programming for the Alx software engineering program. I am looking forward to expanding my knowledge of C programming by constantly going through the concepts and projects provided by the school. 
 
 * [0x00. C - Hello, World](./0x00-hello_world)
 * [0x01. C - Variables, if, else, while](./0x01-variables_if_else_while)
