@@ -13,9 +13,4 @@ In this repo, you will find different programs written on low levl programming f
 - I will continuosly update this repo with my learning progresses with hands-on projects as listed above. I believe there are more projects to come.
 
 ## Author 
-*Abdulhameed Teniola Ajani* 
-
----
-
-## Warning!!
-- This repo may contain some errors. If you notice any, please add a pull request.
+*Abdulhameed Teniola Ajani*
