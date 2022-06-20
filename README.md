@@ -10,7 +10,7 @@ In this repo, you will find different programs written on low levl programming f
 * [0x05. C - Pointers, arrays and strings](./0x05-pointers_arrays_strings)
 * [0x06. C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)
 
-- I will continuosly update this repo with my learning progresses with hands-on projects as listed above. I believe there are moe projects to come.
+- I will continuosly update this repo with my learning progresses with hands-on projects as listed above. I believe there are more projects to come.
 
 ## Author 
 *Abdulhameed Teniola Ajani* 
