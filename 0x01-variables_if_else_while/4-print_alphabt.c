@@ -1,23 +1,28 @@
 #include <stdio.h>
-#include <unistd.h>
+
 /**
  * main - Entry point
- * Description: prints lowercase alphabets
+ * Description: prints lowercase alphabets without q & e
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
-	int ch;
+	int alpha;
 
-	for (ch = 'a'; ch <= 'z'; ch++)
+	for (alpha = 'a'; alpha <= 'z'; alpha++)
 	{
-		if (ch != 'e' && ch != 'q')
+		if (alpha == 'q')
 		{
-			putchar(ch);
+			alpha++;
+			continue;
 		}
-		else
+		if (alpha == 'e')
 		{
+			alpha++;
+			continue;
 		}
+		putchar(alpha);
 	}
 	putchar('\n');
 	return (0);
