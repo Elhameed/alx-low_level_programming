@@ -4,7 +4,8 @@ In this project, I learnt the usage of `gcc` as a preprocessor, assembler, compi
 
 ## Tasks :page_with_curl:
 
-**Task-0**:The `0-current_working_directory` file contains script that prints the absolute path name of the current working directory.`pwd`
+* **0. Preprocessor**:
+- The `0-preprocessor` file contains script that runs a C file through the preprocessor and save the result into another file.
 
 **Task-1**:The `1-listit` file contains the script that displays the content list of the working directory.`ls`
 
