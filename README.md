@@ -14,4 +14,9 @@ In this repo, you will find different programs written on low levl programming f
 
 ## Author 
 *Abdulhameed Teniola Ajani* 
+
 ---
+
+## WARNING!!
+- This repo is done as a school assignment. Beware of copying my responses. I recommend you  to read resources and come up with your own solutions instead. Feel free to reach out for help!
+- This repo may contain some errors. If you notice any, please add a pull request.
