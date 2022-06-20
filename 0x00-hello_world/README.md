@@ -5,7 +5,7 @@ In this project, I learnt the usage of `gcc` as a preprocessor, assembler, compi
 ## Tasks :page_with_curl:
 
 * **0. Preprocessor**:
-- The `0-preprocessor` file contains script that runs a C file through the preprocessor and save the result into another file.
+* [0-preprocessor] file contains script that runs a C file through the preprocessor and save the result into another file.
 
 **Task-1**:The `1-listit` file contains the script that displays the content list of the working directory.`ls`
 
