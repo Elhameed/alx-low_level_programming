@@ -28,11 +28,3 @@ In this project, I learnt how to use the `if`/`if ... else`, `while` and `for` l
 
 * **4. When I was having that alphabet soup, I never thought that it would pay off**
   * The `4-print_alphabt.c` file contains a C program that prints the alphabet in lowercase, followed by a new line using `putchar`.
-
-* **5. Hello, printf**: The `5-printf.c` file  contains a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line using the function `printf`.
-
-* **6. Size is not grandeur, and territory does not make a nation**: The `6-size.c` file contains a C program that prints the size of various types on the computer it is compiled and run on.
-
-* **7. Intel**: The `100-intel` file contains a script that generates the assembly code (Intel syntax) of a C code and save it in an output file. This should save the result in an output file of the same name but with a `.s` extension.
-
-* **8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity**: The `101-quote.c` file contains a C program that prints exactly `and that piece of art is useful" - Dora Korpar, 2015-10-19`, followed by a new line, to the standard error without using any functions listed in the NAME section of the man(3) `printf` or man(3) `puts`.
