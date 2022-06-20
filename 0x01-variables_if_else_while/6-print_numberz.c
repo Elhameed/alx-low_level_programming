@@ -1,17 +1,18 @@
 #include <stdio.h>
-#include <unistd.h>
+
 /**
  * main - Entry point
- * Description: prints char below 10
+ * Description: prints all single digits below 10
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
-	int a;
+	int i;
 
-	for (a = 0; a < 10; a++)
+	for (i = 0; i < 10; i++)
 	{
-		putchar(a + '0');
+		putchar(i);
 	}
 	putchar('\n');
 	return (0);
