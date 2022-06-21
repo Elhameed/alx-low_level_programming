@@ -24,7 +24,7 @@ In this project, I learnt how to use the `if`/`if ... else`, `while` and `for` l
 * **2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
   * This file contains a program that prints the alphabet in lowercase, followed by a new line using `putchar` alone.
 
-* **3. alphABET**: The `3-print_alphabets.c` file contains a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line using only `putchar`.
+* **3. alphABET**: The [3-print_alphabets.c](./3-print_alphabets.c) file contains a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line using only `putchar`.
 
 * **4. When I was having that alphabet soup, I never thought that it would pay off**
-  * The `4-print_alphabt.c` file contains a C program that prints the alphabet in lowercase, followed by a new line using `putchar`.
+  * The [4-print_alphabt.c](./4-print_alphabt.c) file contains a C program that prints the alphabet in lowercase, followed by a new line using `putchar`.
