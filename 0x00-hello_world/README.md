@@ -4,7 +4,7 @@ In this project, I learnt the usage of `gcc` as a preprocessor, assembler, compi
 
 ## Tasks :page_with_curl:
 
-* **0. Preprocessor**: The `0-preprocessor` file contains script that runs a C file through the preprocessor and save the result into another file.
+* **0. Preprocessor**: The [0-preprocessor](./0-preprocessor) file contains script that runs a C file through the preprocessor and save the result into another file.
 
 * **1. Compiler**: The `1-compiler` file contains a script that compiles a C file but does not link.
 
