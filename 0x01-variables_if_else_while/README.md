@@ -4,7 +4,7 @@ In this project, I learnt how to use the `if`/`if ... else`, `while` and `for` l
 
 ## Tasks :page_with_curl:
 
-* **0. Positive anything is better than negative nothing**: The `0-positive_or_negative.c` file contains a program that will assign a random number to the variable `n` each time it is executed. N.B;
+* **0. Positive anything is better than negative nothing**: The [0-positive_or_negative.c](./0-positive_or_negative.c) file contains a program that will assign a random number to the variable `n` each time it is executed. N.B;
   * The output of the program should be:
       * The number, followed by
           * if the number is greater than 0: is positive
