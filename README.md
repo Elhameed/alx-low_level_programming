@@ -9,6 +9,7 @@ In this repo, you will find different programs written on low level programming 
 * [0x04. C - More functions, more nested loops](./0x04-more_functions_nested_loops)
 * [0x05. C - Pointers, arrays and strings](./0x05-pointers_arrays_strings)
 * [0x06. C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)
+* [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings)
 
 - I will continuosly update this repo with my learning progresses with hands-on projects as listed above.
 
