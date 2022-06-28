@@ -6,7 +6,8 @@
  * Return: 0
  */
  
-int main(void) {
+int main(void)
+{
 	char main[] = "_putchar";
 	int i = 0;
 
