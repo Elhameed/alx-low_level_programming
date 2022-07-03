@@ -5,7 +5,7 @@ In this project, I learnt what nested loops are and how to use them, Functions a
 ## Header File :file_folder:
 
 * **`main.h`**: The header file containing the prototypes for all
-functions written in the project can be found here: [main.h](./main.h):
+functions written in this project can be found here: [main.h](./main.h)
 
 
 ## Tasks :page_with_curl:
@@ -15,46 +15,56 @@ functions written in the project can be found here: [main.h](./main.h):
 * **1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**: 
   * The [1-alphabet.c](./1-alphabet.c) file contains a function that prints the alphabet, in lowercase, followed by a new line.
  
-* **2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
-  * This file contains a program that prints the alphabet in lowercase, followed by a new line using `putchar` function alone.
+* **2. 10 x alphabet**
+  * This file contains a function that prints 10 times the alphabet, in lowercase, followed by a new line.
 
-* **3. alphABET**: The [3-print_alphabets.c](./3-print_alphabets.c) file contains a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line using only `putchar`.
+* **3. islower**: The [3-islower.c](./3-islower.c) file contains a function that checks for lowercase character.It should return `1` if `c` is lowercase otherwise, it returns `0`.
 
-* **4. When I was having that alphabet soup, I never thought that it would pay off**
-  * The [4-print_alphabt.c](./4-print_alphabt.c) file contains a C program that prints the alphabet in lowercase, followed by a new line using `putchar`.
+* **4. isalpha**: The [4-isalpha.c](./4-isalpha.c) file contains  a function that checks for alphabetic character. It should return `1` if `c` is letter, lowercase or uppercase otherwise, it returns `0`.
 
-* **5. Numbers**: The [5-print_numbers.c](./5-print_numbers.c) file contains a program that prints all single digit numbers of base 10 starting from `0`, followed by a new line.
+* **5. Sign**: The [5-sign.c](./5-sign.c) file contains a function that prints the sign of a number. The programme should:
+   * Return `1` and print `+` if `n` is greater than zero
+   * Return `0` and print `0` if `n` is zero
+   * Return `-1` and print `-` if `n` is less than zero
 
-* **6. Numberz**: The [6-print_numberz.c](./6-print_numberz.c) file contains a program that prints all single digit numbers of base 10 starting from `0`, followed by a new line using `putchar`.
+* **6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
+**
+  * The [6-abs.c](./6-abs.c) file contains a function that computes the absolute value of an integer.
 
-* **7. Smile in the mirror**: The [7-print_tebahpla.c](./7-print_tebahpla.c) file contains a program that prints the lowercase alphabet in reverse, followed by a new line using `putchar`.
+* **7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important**
+   * The [7-print_last_digit.c](./7-print_last_digit.c) file contains a function that prints the last digit of a number.
 
-* **8. Hexadecimal**: The [8-print_base16.c](./8-print_base16.c) file contains a program that prints all the numbers of base 16 in lowercase, followed by a new line using `putchar`.
+* **8. I'm federal agent Jack Bauer, and today is the longest day of my life**
+   * The [8-24_hours.c](./8-24_hours.c) file contains a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 
-* **9. Patience, persistence and perspiration make an unbeatable combination for success**
-  * The file [9-print_comb.c](./9-print_comb.c) file contains  a program that prints all possible combinations of single-digit numbers. N.B:
-    * Numbers must be separated by `,`, followed by a space
-    * Numbers should be printed in ascending order
-    * You can only use the `putchar` function
-* **10. Inventing is a combination of brains and materials. The more brains you use, the less material you need**
-  * The file [100-print_comb3.c](./100-print_comb3.c) contains a program that prints all possible different combinations of two digits. N.B:
-    * Numbers must be separated by `,`, followed by a space
-    * The two digits must be different
-    * `01` and `10` are considered the same combination of the two digits `0` and `1`
- * **11. The success combination in business is: Do what you do better... and: do more of what you do...**
-   * The [101-print_comb4.c](./101-print_comb4.c) file contains a program that prints all possible different combinations of three digits. N.B:
-     * Numbers must be separated by `,`, followed by a space
-     * The three digits must be different
-     * `012`, `120`, `102`, `021`, `201`, `210` are considered the same combination of the three digits `0`, `1` and `2`
- * **12. Software is eating the World**: 
-   * The [102-print_comb5.c](./102-print_comb5.c) file contains a program that prints all possible combinations of two two-digit numbers. N.B:
-     * The numbers should range from `0` to `99`
-     * The two numbers should be separated by a space
-     * All numbers should be printed with two digits. `1` should be printed as `01`
-     * The combination of numbers must be separated by comma, followed by a space
-     * The combinations of numbers should be printed in ascending order
-     * `00` `01` and `01` `00` are considered as the same combination of the numbers `0` and `1`
-     * You can only use the `putchar` function (every other function (`printf`, `puts`, etc…) is forbidden)
-     * You can only use `putchar` eight times maximum in your code
-     * You are not allowed to use any variable of type `char`
-     * All your code should be in the `main` function
+* **9. Learn your times table**
+  * The file [9-times_table.c](./9-times_table.c) file contains a function that prints the 9 times table, starting with 0.
+ 
+* **10. a + b**
+  * The file [10-add.c](./10-add.c) contains a function that adds two integers and returns the result.
+
+ * **11. 98 Battery Street, the OG**
+   * The [11-print_to_98.c](./11-print_to_98.c) file contains a function that prints all natural numbers from `n` to `98`, followed by a new line. N.B:
+     * Numbers must be separated by a comma, followed by a space
+     * Numbers should be printed in order
+     * The first printed number should be the number passed to your function
+     * The last printed number should be 98
+   
+ * **12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself**: 
+   * The [100-times_table.c](./100-times_table.c) file contains a function that prints the n times table, starting with 0. N.B:
+     * If `n` is greater than `15` or less than `0` the function should not print anything
+
+* **13. Nature made the natural numbers; All else is the work of women**: 
+   * The [101-natural.c](./101-natural.c) file contains a program that computes and prints the sum of all the multiples of `3` or `5` below `1024` (excluded), followed by a new line.
+
+* **14. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A**: 
+   * The [102-fibonacci.c](./102-fibonacci.c) file contains a program that prints the first 50 Fibonacci numbers, starting with `1` and `2`, followed by a new line. N.B:
+     * The numbers must be separated by comma, followed by a space `,` 
+
+* **15. Even Liber Abbaci**: 
+   * The [103-fibonacci.c](./103-fibonacci.c) file contains a program that finds and prints the sum of the even-valued terms of the Fibonacci sequence, followed by a new line.
+
+* **16. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A+**: 
+   * The [104-fibonacci.c](./104-fibonacci.c) file contains a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line. N.B:
+     * The numbers must be separated by comma, followed by a space `,`
+
