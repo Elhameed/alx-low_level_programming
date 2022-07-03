@@ -1,16 +1,10 @@
-# 0x01. C - Variables, if, else, while
+# 0x02. C - Functions, nested loops
 
-In this project, I learnt how to use the `if`/`if ... else`, `while` and `for` loops. I also learnt how to use `putchar` as another way of printing output apart from the commonly used `printf` function.
+In this project, I learnt what nested loops are and how to use them, Functions and how to use them. I also learnt the difference between the declaration and definition of functions.
 
 ## Tasks :page_with_curl:
 
-* **0. Positive anything is better than negative nothing**: The [0-positive_or_negative.c](./0-positive_or_negative.c) file contains a program that will assign a random number to the variable `n` each time it is executed. N.B;
-  * The output of the program should be:
-      * The number, followed by
-          * if the number is greater than 0: `is positive`
-          * if the number is 0: `is zero`
-          * if the number is less than 0: `is negative`
-      * followed by a new line
+* **0. _putchar**: The [0-putchar.c](./0-putchar.c) file contains a program that prints `_putchar`, followed by a new line.
 
 * **1. The last digit**: In this file, The output of the program should be:
   * The string `Last digit of`, followed by
