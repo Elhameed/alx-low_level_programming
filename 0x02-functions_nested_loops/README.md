@@ -6,7 +6,7 @@ In this project, I learnt what nested loops are and how to use them, Functions a
 
 * **0. _putchar**: The [0-putchar.c](./0-putchar.c) file contains a program that prints `_putchar`, followed by a new line.
 
-* **1. The last digit1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**: 
+* **1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**: 
 * The [1-alphabet.c](./1-alphabet.c) file contains a function that prints the alphabet, in lowercase, followed by a new line.
  
 * **2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
