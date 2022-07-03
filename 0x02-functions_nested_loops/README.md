@@ -48,7 +48,7 @@ functions written in this project can be found here: [main.h](./main.h)
      * Numbers must be separated by a comma, followed by a space
      * Numbers should be printed in order
      * The first printed number should be the number passed to your function
-     * The last printed number should be 98
+     * The last printed number should be `98`.
    
  * **12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself**: 
    * The [100-times_table.c](./100-times_table.c) file contains a function that prints the n`` times table, starting with `0`. N.B:
