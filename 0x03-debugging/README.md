@@ -2,22 +2,17 @@
 
 In this project, I was able to learn how to fix bugs in codes using a simple method known as [Rubber Duck Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/). This is method of explaining ypur broken codes to an inanimate object like a rubber duck line by line in order to spot where the error is.
 
+## Header File :file_folder:
+
+* **`main.h`**: The header file containing the prototypes for all
+functions written in this project can be found here: [main.h](./main.h)
+
 ## Tasks :page_with_curl:
 
-* **0. Multiple mains**: The [0-preprocessor](./0-preprocessor) file contains script that runs a C file through the preprocessor and save the result into another file.
+* **0. Multiple mains**: The [0-main.c](./0-main.c) file is a file that tests that the function `positive_or_negative()` gives the correct output when given a case of `0`.
 
-* **1. Compiler**: The [1-compiler](./1-compiler) file contains a script that compiles a C file but does not link.
+* **1. Like, comment, subscribe**: In the [1-main.c](./1-main.c) file We were asked to comment out (don’t delete it!) the part of the code that is causing the output to go into an infinite loop..
 
-* **2. Assembler**: The [2-assembler](./2-assembler) file contains a script that generates the assembly code of a C code and save it in an output file.
+* **2. 0 > 972?**: The [2-largest_number.c](./2-largest_number.c) file is a fix for the initial code so that it correctly prints out the largest of three numbers, no matter the case.
 
-* **3. Name**: The [3-name](./3-name) file contains a script that compiles a C file and creates an executable named `cisfun`.
-
-* **4. Hello, puts**: The [4-puts.c](./4-puts.c) file contain C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line using the function `puts`.
-
-* **5. Hello, printf**: The [5-printf.c](./5-printf.c) file  contains a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line using the function `printf`.
-
-* **6. Size is not grandeur, and territory does not make a nation**: The [6-size.c](./6-size.c) file contains a C program that prints the size of various types on the computer it is compiled and run on.
-
-* **7. Intel**: The [100-intel](./100-intel) file contains a script that generates the assembly code (Intel syntax) of a C code and save it in an output file. This should save the result in an output file of the same name but with a `.s` extension.
-
-* **8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity**: The [101-quote.c](./101-quote.c) file contains a C program that prints exactly `and that piece of art is useful" - Dora Korpar, 2015-10-19`, followed by a new line, to the standard error without using any functions listed in the NAME section of the man(3) `printf` or man(3) `puts`.
+* **3. Leap year**: The [3-print_remaining_days.c](./3-print_remaining_days.c) file contains a fix to the `print_remaining_days()` function so that the output works correctly for all dates and all leap years.
