@@ -1,10 +1,10 @@
 # 0x03. C - Debugging
 
-In this project, I was able to learn how to fix bugs in codes using a simple method known as [Rubber Duck Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
+In this project, I was able to learn how to fix bugs in codes using a simple method known as [Rubber Duck Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/). This is method of explaining ypur broken codes to an inanimate object like a rubber duck line by line in order to spot where the error is.
 
 ## Tasks :page_with_curl:
 
-* **0. Preprocessor**: The [0-preprocessor](./0-preprocessor) file contains script that runs a C file through the preprocessor and save the result into another file.
+* **0. Multiple mains**: The [0-preprocessor](./0-preprocessor) file contains script that runs a C file through the preprocessor and save the result into another file.
 
 * **1. Compiler**: The [1-compiler](./1-compiler) file contains a script that compiles a C file but does not link.
 
