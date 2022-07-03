@@ -6,14 +6,8 @@ In this project, I learnt what nested loops are and how to use them, Functions a
 
 * **0. _putchar**: The [0-putchar.c](./0-putchar.c) file contains a program that prints `_putchar`, followed by a new line.
 
-* **1. The last digit**: In this file, The output of the program should be:
-  * The string `Last digit of`, followed by
-  * `n`, followed by
-  * the string `is`, followed by
-    * if the last digit of n is greater than 5: `the string and is greater than 5`
-    * if the last digit of n is 0: `the string and is 0`
-    * if the last digit of n is less than 6 and not 0: `the string and is less than 6 and not 0`
-  * followed by a new line
+* **1. The last digit1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**: 
+* The [1-alphabet.c](./1-alphabet.c) file contains a function that prints the alphabet, in lowercase, followed by a new line.
  
 * **2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
   * This file contains a program that prints the alphabet in lowercase, followed by a new line using `putchar` function alone.
