@@ -11,6 +11,10 @@ In this repo, you will find different programs written on low level programming 
 * [0x06. C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)
 * [ 0x07. C - Even more pointers, arrays and strings](./0x07-pointers_arrays_strings)
 * [ 0x08. C - Recursion](./0x08-recursion)
+* [0x09. C - Static libraries](./0x09-static_libraries)
+* [0x0A. C - argc, argv](./0x0A-argc_argv)
+* [0x0B. C - malloc, free](./0x0B-malloc_free)
+* [0x0C. C - More malloc, free](./0x0C-more_malloc_free)
 
 - I will continuosly update this repo with my learning progresses with hands-on projects as listed above.
 
