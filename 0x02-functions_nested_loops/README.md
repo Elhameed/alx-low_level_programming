@@ -4,7 +4,7 @@ In this project, I learnt what nested loops are and how to use them, Functions a
 
 ## Header File :file_folder:
 
-* **main.h**: The header file containing the prototypes for all
+* **`main.h`**: The header file containing the prototypes for all
 functions written in the project can be found here: [main.h](./main.h):
 
 
