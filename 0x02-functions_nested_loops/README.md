@@ -35,10 +35,10 @@ functions written in this project can be found here: [main.h](./main.h)
    * The [7-print_last_digit.c](./7-print_last_digit.c) file contains a function that prints the last digit of a number.
 
 * **8. I'm federal agent Jack Bauer, and today is the longest day of my life**
-   * The [8-24_hours.c](./8-24_hours.c) file contains a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+   * The [8-24_hours.c](./8-24_hours.c) file contains a function that prints every minute of the day of Jack Bauer, starting from `00:00` to `23:59`.
 
 * **9. Learn your times table**
-  * The file [9-times_table.c](./9-times_table.c) file contains a function that prints the 9 times table, starting with 0.
+  * The file [9-times_table.c](./9-times_table.c) file contains a function that prints the `9` times table, starting with `0`.
  
 * **10. a + b**
   * The file [10-add.c](./10-add.c) contains a function that adds two integers and returns the result.
@@ -51,7 +51,7 @@ functions written in this project can be found here: [main.h](./main.h)
      * The last printed number should be 98
    
  * **12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself**: 
-   * The [100-times_table.c](./100-times_table.c) file contains a function that prints the n times table, starting with 0. N.B:
+   * The [100-times_table.c](./100-times_table.c) file contains a function that prints the n`` times table, starting with `0`. N.B:
      * If `n` is greater than `15` or less than `0` the function should not print anything
 
 * **13. Nature made the natural numbers; All else is the work of women**: 
@@ -65,6 +65,5 @@ functions written in this project can be found here: [main.h](./main.h)
    * The [103-fibonacci.c](./103-fibonacci.c) file contains a program that finds and prints the sum of the even-valued terms of the Fibonacci sequence, followed by a new line.
 
 * **16. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A+**: 
-   * The [104-fibonacci.c](./104-fibonacci.c) file contains a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line. N.B:
+   * The [104-fibonacci.c](./104-fibonacci.c) file contains a program that finds and prints the first 98 Fibonacci numbers, starting with `1` and `2`, followed by a new line. N.B:
      * The numbers must be separated by comma, followed by a space `,`
-
