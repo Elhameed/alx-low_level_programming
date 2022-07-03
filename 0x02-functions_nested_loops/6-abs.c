@@ -9,7 +9,7 @@ int _abs(int n)
 {
 	if (n < 0)
 	{
-		return (abs(n));
+		printf ("%f", abs(n));
 	}
 	else
 	{
