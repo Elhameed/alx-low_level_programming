@@ -23,7 +23,6 @@ int main(void)
 
 		if (i != 100)
 			printf(" ");
-		i++;
 	}
 	printf("\n");
 	return (0);
