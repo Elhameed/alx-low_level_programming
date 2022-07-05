@@ -22,6 +22,7 @@ int main(void)
 		printf("%d ", i);
 		if (i != 100)
 		printf(" ");
+		i++;
 	}
 	printf("\n");
 	return (0);
