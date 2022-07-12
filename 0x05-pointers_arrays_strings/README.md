@@ -42,4 +42,4 @@ In this project, I learnt what pointers and arrays are and how to use them. Also
   * In the [100-atoi.c](./100-atoi.c) file contains a function that convert a string to an integer.
 
 * **11. Don't hate the hacker, hate the code**
-  * The [101-keygen.c](./101-keygen.c) file contains a program that generates random valid passwords for the program [101-crackme](./https://github.com/holbertonschool/0x04.c).
+  * The [101-keygen.c](./101-keygen.c) file contains a program that generates random valid passwords for the program [101-crackme](https://github.com/holbertonschool/0x04.c).
