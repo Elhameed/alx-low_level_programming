@@ -9,7 +9,7 @@ In this project, I learnt What `C` library is and the types (Static and Shared).
 ## Tasks :page_with_curl:
 
 * **0. A library is not a luxury but one of the necessities of life**
-  * We were tasked to create the static library [libmy.a](./libmy.a) containing all the functions listed below:
+  * We were tasked to create the static library `libmy.a` containing all the functions listed below:
       * `int _putchar(char c);`
       * `int _islower(int c);`
       * `int _isalpha(int c);`
