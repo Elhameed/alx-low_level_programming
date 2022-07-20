@@ -1,6 +1,6 @@
 # 0x0A. C - argc, argv
 
-In this project, I learnt what `argc' and `argv' mean
+In this project, I learnt what `argc` and `argv` mean
 
 ## Header File :file_folder:
 
