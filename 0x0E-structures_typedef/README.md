@@ -1,8 +1,8 @@
 # 0x0E. C - Structures, typedef
 
 In this project, I learnt:
-  * What are structures, when, why and how to use them
-  * How to use `typedef`
+ * What are structures, when, why and how to use them
+ * How to use `typedef`
 
 ## Header File :file_folder:
 
